@@ -1,0 +1,48 @@
+// Copyright, 2023, by NGD Studios AB. All rights reserved.
+
+#include <windows.h>
+#include "Runtime/Launch/Resources/Version.h"
+#include "Runtime/Launch/Resources/Windows/resource.h"
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+1 VERSIONINFO
+FILEVERSION 10, 0, 0, 0
+PRODUCTVERSION 10, 0, 0, 0
+FILEFLAGSMASK 0
+FILEFLAGS 0
+FILEOS VOS_NT_WINDOWS32
+FILETYPE VFT_APP
+BEGIN
+BLOCK "StringFileInfo"
+BEGIN
+BLOCK "040904E4"
+BEGIN
+VALUE "FileDescription", "Football"
+VALUE "FileVersion", "1.0.0"
+VALUE "LegalCopyright", "Copyright, 2023, by NGD Studios AB. All rights reserved."
+VALUE "InternalName", "Football"
+VALUE "ProductHash", "Football"
+VALUE "ProductName", "Football"
+VALUE "ProductVersion", "1.0.0"
+END
+END
+BLOCK "VarFileInfo"
+BEGIN
+VALUE "Translation", 0x409, 1252
+END
+END
+    
+    
+    
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+IDICON_UE5Game          ICON                    "Football.ico"
