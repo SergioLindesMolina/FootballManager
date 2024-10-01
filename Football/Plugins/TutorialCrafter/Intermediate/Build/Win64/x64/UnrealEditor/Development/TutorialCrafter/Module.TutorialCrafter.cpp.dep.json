@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tutorialcrafter\\module.tutorialcrafter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\smlin\\documents\\nimbleprojects\\football\\intermediate\\build\\win64\\x64\\footballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tutorialcrafter\\definitions.tutorialcrafter.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorial.gen.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\tutorial.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorial.generated.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialaction.gen.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\tutorialaction.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialaction.generated.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialcrafter.init.gen.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialhub.gen.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\tutorialhub.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialhub.generated.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialvalidator.gen.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\tutorialvalidator.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialvalidator.generated.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\private\\common\\logging.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\private\\common\\logging.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\private\\tutorial.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\private\\tutorialaction.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\private\\tutorialcrafter.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\tutorialcrafter.h",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\private\\tutorialhub.cpp",
+            "c:\\users\\smlin\\documents\\nimbleprojects\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\private\\tutorialvalidator.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

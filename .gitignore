@@ -69,7 +69,13 @@ Football/Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
-Football/Plugins/*
+Football/Plugins/ImGui/*
+Football/Plugins/CursorSubsystem/*
+Football/Plugins/DHW/*
+Football/Plugins/DialogueSystem/*
+Football/Plugins/UnrealImGui/*
+Football/Plugins/UserInterface/*
+Football/Plugins/vc-ue-extensions-main/*
 
 Football/Intermediate/*
 

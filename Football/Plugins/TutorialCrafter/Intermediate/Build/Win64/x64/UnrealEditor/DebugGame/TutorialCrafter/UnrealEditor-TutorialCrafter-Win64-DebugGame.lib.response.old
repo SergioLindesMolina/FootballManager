@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TutorialCrafter-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"E:\Projects\FTB_mainline\Football\Plugins\TutorialCrafter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TutorialCrafter\Module.TutorialCrafter.cpp.obj"
+"E:\Projects\FTB_mainline\Football\Plugins\TutorialCrafter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TutorialCrafter\TutorialCrafterBFL.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"E:\Projects\FTB_mainline\Football\Plugins\TutorialCrafter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TutorialCrafter\UnrealEditor-TutorialCrafter-Win64-DebugGame.lib"

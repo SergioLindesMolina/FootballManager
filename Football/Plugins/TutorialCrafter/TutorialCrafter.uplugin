@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TutorialCrafter",
+	"Description": "Tutorial system using UDataAssets for the creation of each individual tutorial, thanks to that is easier to create and reuse them",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TutorialCrafter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

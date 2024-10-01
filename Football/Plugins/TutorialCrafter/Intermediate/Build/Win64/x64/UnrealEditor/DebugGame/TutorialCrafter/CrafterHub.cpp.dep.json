@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\private\\crafterhub.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projects\\ftb_mainline\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\tutorialcrafter\\definitions.tutorialcrafter.h",
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\crafterhub.h",
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\crafterhub.generated.h",
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\tutorialaction.h",
+            "e:\\projects\\ftb_mainline\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\projects\\ftb_mainline\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\projects\\ftb_mainline\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\projects\\ftb_mainline\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\projects\\ftb_mainline\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\projects\\ftb_mainline\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialaction.generated.h",
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\tutorialvalidator.h",
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorialvalidator.generated.h",
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\source\\tutorialcrafter\\public\\tutorial.h",
+            "e:\\projects\\ftb_mainline\\engine\\source\\runtime\\engine\\classes\\engine\\dataasset.h",
+            "e:\\projects\\ftb_mainline\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dataasset.generated.h",
+            "e:\\projects\\ftb_mainline\\football\\plugins\\tutorialcrafter\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorialcrafter\\uht\\tutorial.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

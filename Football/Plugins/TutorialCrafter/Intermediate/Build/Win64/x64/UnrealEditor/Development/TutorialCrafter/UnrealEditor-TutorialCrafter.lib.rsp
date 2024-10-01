@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TutorialCrafter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\smlin\Documents\NimbleProjects\Football\Intermediate\Build\Win64\x64\FootballEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\smlin\Documents\NimbleProjects\Football\Plugins\TutorialCrafter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TutorialCrafter\Module.TutorialCrafter.cpp.obj"
+"C:\Users\smlin\Documents\NimbleProjects\Football\Plugins\TutorialCrafter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TutorialCrafter\Default.rc2.res"
+/OUT:"C:\Users\smlin\Documents\NimbleProjects\Football\Plugins\TutorialCrafter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TutorialCrafter\UnrealEditor-TutorialCrafter.lib"

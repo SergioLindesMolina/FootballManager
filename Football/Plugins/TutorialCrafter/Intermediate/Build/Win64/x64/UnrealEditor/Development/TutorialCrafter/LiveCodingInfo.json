@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TutorialCrafter.cpp.obj": [
+			"Tutorial.gen.cpp.obj",
+			"TutorialAction.gen.cpp.obj",
+			"TutorialCrafter.init.gen.cpp.obj",
+			"TutorialHub.gen.cpp.obj",
+			"TutorialValidator.gen.cpp.obj",
+			"Logging.cpp.obj",
+			"Tutorial.cpp.obj",
+			"TutorialAction.cpp.obj",
+			"TutorialCrafter.cpp.obj",
+			"TutorialHub.cpp.obj",
+			"TutorialValidator.cpp.obj"
+		]
+	}
+}

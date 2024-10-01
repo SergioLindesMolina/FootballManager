@@ -1,0 +1,1 @@
+#include "C:/Users/smlin/Documents/NimbleProjects/Football/Plugins/TutorialCrafter/Source/TutorialCrafter/Public/Tutorial.h"
